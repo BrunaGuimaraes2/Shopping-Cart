@@ -2,7 +2,11 @@
 Este projeto foi desenvolvido durante o período de Curso da Trybe. O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos na Trybe
 
 
-  ![Peek 23-11-2022 18-08](https://user-images.githubusercontent.com/54490709/203646798-b1c9b8a8-d1cd-42a9-9a3a-e71de9188264.gif)
+
+
+https://user-images.githubusercontent.com/106410357/209713293-d4ba46b1-8f9e-465b-a190-2d5e6b27bac1.mp4
+
+
 
 <h2> Iniciando... </h2>
 
