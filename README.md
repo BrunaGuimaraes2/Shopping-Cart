@@ -8,7 +8,7 @@ Este projeto foi desenvolvido durante o período de Curso da Trybe. O projeto te
 
  - comece clonando o repositório com o link: 
  
-``` git clone git@github.com:DeboraMarim/Shopping-Cart.git```
+``` git@github.com:BrunaGuimaraes2/Shopping-Cart.git```
 
 
 - Entre na pasta do repositório na sua máquina:
